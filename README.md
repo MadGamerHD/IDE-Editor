@@ -12,7 +12,7 @@ The IDE Editor is a basic GUI application built with Python's Tkinter library, d
 - **Tkinter**: Comes pre-installed with most Python distributions.
 
 ## Usage
-1. Launch the application by running the script.
+1. Launch the application by running the EXE.
 2. Use the interface to add, edit, or remove entries as needed.
 3. Load an existing IDE file or save your changes to a new file.
 
